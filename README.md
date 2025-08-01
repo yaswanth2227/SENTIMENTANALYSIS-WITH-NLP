@@ -71,3 +71,7 @@ By manually creating the TF-IDF vectors and simulating a logistic regression cla
 3.Linear classification using weights and bias
 
 4.Binary classification decision-making through sigmoid activation
+
+**OUTPUT:**
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c19dfb1a-1ce4-4ae2-b397-c3e6a1e3b8b5" />
